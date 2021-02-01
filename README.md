@@ -1,6 +1,6 @@
 # DuWork App
 
-DuWork App is built in flutter.
+DuWork App is built in Flutter. 
 
 ## Preview
 
