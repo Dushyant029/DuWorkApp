@@ -18,7 +18,7 @@ class CalendarDates extends StatelessWidget {
           Text(
             day,
             style: TextStyle(
-                fontSize: 16, color: dayColor, fontWeight: FontWeight.w400),
+                fontSize: 16, color: dayColor, fontWeight: FontWeight.w400),  
           ),
           SizedBox(height: 10.0),
           Text(
