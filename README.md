@@ -2,7 +2,7 @@
 
 DuWork App is built in Flutter.       
 
-## Preview:
+## Preview
 
 ![image](https://user-images.githubusercontent.com/55031190/106364796-b088ec00-6357-11eb-9e27-61fbdcb78680.png)
 
