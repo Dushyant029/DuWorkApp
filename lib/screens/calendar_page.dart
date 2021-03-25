@@ -95,7 +95,7 @@ class CalendarPage extends StatelessWidget {
               ),
               SizedBox(height: 20.0),
               Container(
-                height: 58.0,
+                height: 58.5,
                 child: ListView.builder(
                   scrollDirection: Axis.horizontal,
                   itemCount: days.length,
